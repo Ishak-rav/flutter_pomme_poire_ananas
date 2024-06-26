@@ -27,14 +27,14 @@ Le projet est organisé de manière modulaire pour améliorer la maintenabilité
 ```
 lib/
 │
+├── utils/
+│    ├── prime_utils.dart
+│    ├── color_utils.dart
+│    └── image_utils.dart
 ├── main.dart
 ├── my_app.dart
 ├── my_home_page.dart
-├── my_home_page_state.dart
-└── utils/
-├── prime_utils.dart
-├── color_utils.dart
-└── image_utils.dart
+└── my_home_page_state.dart
 ```
 
 ## Configuration
